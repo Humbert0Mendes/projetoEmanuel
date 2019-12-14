@@ -2,7 +2,7 @@ import React from 'react';
 import {Text} from 'react-native';
 
 const App = () => {
-  return <Text> Projeto Emanuel</Text>;
+  return <Text> Projeto Emanuel TESTE PÓS</Text>;
 };
 
 export default App;
